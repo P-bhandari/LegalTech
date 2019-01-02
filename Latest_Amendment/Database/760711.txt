@@ -1,0 +1,6 @@
+Central Government Act
+
+Section 45U(a) in The Reserve Bank Of India (Amendment) Act,   2006
+
+ (a)  derivative means an instrument, to be settled at a future date, whose value is derived from change in interest rate, foreign exchange rate, credit rating or credit index, price of securities (also called underlying), or a combination of more than one of them and includes interest rate swaps, forward rate agreements, foreign currency swaps, foreign currency- rupee swaps, foreign currency options, foreign currency- rupee options or such other instruments as may be specified by the Bank from time to time;
+
